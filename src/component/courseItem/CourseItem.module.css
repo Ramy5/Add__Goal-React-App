@@ -1,0 +1,13 @@
+.course-item {
+  width: 600px;
+  margin: 0.5rem auto;
+  background-color: #8b005d;
+  color: #fff;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.course-item p {
+  margin: 0;
+  padding: 1.2rem 3rem;
+}
