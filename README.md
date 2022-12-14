@@ -14,7 +14,6 @@ Second project that I created by reactjs for practise, allow you to add goals or
 </ul>
 
 <h2 id="preview">Preview</h2>
-<h3>Live Preview: https://add-goal-react-2c6pikss0-ramy5.vercel.app</h3>
 
 <img style="width: 100%" src="https://user-images.githubusercontent.com/74501165/206900243-6adf420b-0f1b-46c4-b017-289281c3b427.png" alt="Preview">
 
@@ -27,6 +26,3 @@ Second project that I created by reactjs for practise, allow you to add goals or
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Live preview by using:<br>
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
